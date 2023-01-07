@@ -1,0 +1,7 @@
+10
+58.8
+Nasi Lemak	5
+Nasi Goreng	0
+Spaghetti	2
+Chicken Chop	0
+Burger	3

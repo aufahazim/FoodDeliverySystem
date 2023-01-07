@@ -1,0 +1,5 @@
+A	Nasi Lemak	5.5	25
+B	Nasi Goreng	6.9	15
+C	Spaghetti	8.9	23
+D	Chicken Chop	11.5	15
+E	Burger	4.5	21
